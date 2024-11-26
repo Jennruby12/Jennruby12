@@ -1,6 +1,7 @@
 # Hello, I'm Jennifer!! 
 <a href="https://www.linkedin.com/in/jennifer-carrillo-6ba347265"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<a href="https://www.tiktok.com/@jenjen.code?_t=8ri1nVEXVOp&_r=1"><img src="https://img.shields.io/badge/-TikTok-000000?&style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://www.instagram.com/jenjen.code/profilecard/?igsh=dmNiYmFrbmQ2bzFr"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 
 ## 🎓 Education  
