@@ -28,7 +28,7 @@ My journey in software engineer university has led me to develop a passion for c
 | Network Traffic Analysis with Wireshark        | Web Exploitation Lab|
 | Bash and Python Scripting for Task Automation | Linux Automation Scripts|
 |  Vulnerability Scanning with Nessus           | Vulnerability Assessment with Nessus |
-
+|System Requirements Project                    | <a href="https://github.com/Jennruby12/ferreteria-maqtex/tree/main/docs">ferreteria-maqtex</a> |
 ## Tools
 
 Network
