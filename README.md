@@ -35,8 +35,15 @@ Network
 <div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=Tenable&logoColor=white" /> </div>
 Penetration Testing
 <div> <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Metasploit-2D2D2D?&style=for-the-badge&logo=Metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-Burp_Suite-FF5722?&style=for-the-badge&logo=PortSwigger&logoColor=white" /> </div>
-Automation & Scripting
-<div> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" /> </div>
+Programming, Automation & Scripting
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=C%23&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
+</div>
 Cybersecurity Frameworks
 <div> <img src="https://img.shields.io/badge/-MITRE_ATT&CK-333333?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-OWASP_Top_10-000000?&style=for-the-badge&logo=OWASP&logoColor=white" /> </div>
 ## Certifications
