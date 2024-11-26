@@ -7,8 +7,9 @@
 ## 🎓 Education  
 
 - **Universidad Tecnológica de México**  (In progres)
-  - **Degree:** Cybersecurity (In Progress)  
   - **Duration:** May 2022 - August 2026
+  - **Degree:** Cybersecurity (In Progress)  
+  
  
 
 ## Objective
