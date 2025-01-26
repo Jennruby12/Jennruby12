@@ -17,17 +17,15 @@
 My journey in software engineer university has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I am passionate about emerging technologies, solving complex problems, and specializing in networks and cybersecurity. With hands-on experience in ethical hacking and system analysis, I excel at learning rapidly, tackling challenges, and collaborating effectively in team environments.
 
 ## Skills
+<a href="">ferreteria-maqtex</a>
 
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Linux Administration: User management, permissions, web server setup (Apache/Nginx) | Linux Automation Scripts|
-| Secure Remote Access Configuration (SSH)      | Network Penetration Testing|
-| Penetration Testing (PTES, OWASP Top 10)      | Vulnerability Assessment with Nessus|
-| Threat Mapping using MITRE ATT&CK              | Network Penetration Testing|
-| Network Traffic Analysis with Wireshark        | Web Exploitation Lab|
-|  Vulnerability Scanning with Nessus           | Vulnerability Assessment with Nessus |
+| Skill                                        | Associated Project                  |
+|----------------------------------------------|-------------------------------------|
+| Escaneo de vulnerabilidades SSH con Nmap y Metasploit | <a href="https://github.com/Jennruby12/metasploitable2-ssh-scan">metasploitable2-ssh-scan</a> |
+| Cifrado y ataques de fuerza bruta             | <a href="https://github.com/Jennruby12/cesar-brute-force">Fuerza bruta con el cifrado cesar usando python</a>   |
+| Programación en C# para cálculos geométricos  |<a href="https://github.com/Jennruby12/Rhombus-Project">Rhombus Project</a> |
 |System Requirements Project                    | <a href="https://github.com/Jennruby12/ferreteria-maqtex/tree/main/docs">ferreteria-maqtex</a> |
+
 ## Tools
 
 Network
