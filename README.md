@@ -12,11 +12,7 @@
 <a href="https://www.instagram.com/jenjen.code/profilecard/?igsh=dmNiYmFrbmQ2bzFr"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jennruby12/Jennruby12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jennruby12/Jennruby12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jennruby12/Jennruby12/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ## 🎓 Education  
 
