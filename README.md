@@ -1,3 +1,5 @@
+
+
 # Hello, I'm Jennifer!! 
 <a href="https://www.linkedin.com/in/jennifer-carrillo-6ba347265"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.tiktok.com/@jenjen.code?_t=8ri1nVEXVOp&_r=1"><img src="https://img.shields.io/badge/-TikTok-000000?&style=for-the-badge&logo=tiktok&logoColor=white" /></a>
@@ -14,7 +16,7 @@
 
 ## Objective
 
-My journey in software engineer university has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I am passionate about emerging technologies, solving complex problems, and specializing in networks and cybersecurity. With hands-on experience in ethical hacking and system analysis, I excel at learning rapidly, tackling challenges, and collaborating effectively in team environments.
+My journey in software engineering has evolved into a strong focus on cybersecurity, particularly offensive security and penetration testing. I am deeply interested in understanding how systems, networks, and applications are attacked in real-world scenarios in order to secure them effectively. I actively develop skills in ethical hacking, vulnerability assessment, and security testing, with a hands-on approach to learning tools, techniques, and attack methodologies. I thrive on breaking down complex systems, thinking like an attacker, and collaborating with teams to identify, exploit, and remediate security weaknesses.
 
 ## Skills
 <a href="">ferreteria-maqtex</a>
@@ -45,6 +47,11 @@ Cybersecurity Frameworks
 <div> <img src="https://img.shields.io/badge/-MITRE_ATT&CK-333333?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-OWASP_Top_10-000000?&style=for-the-badge&logo=OWASP&logoColor=white" /> </div>
 ## Certifications
 <div> <img src="https://img.shields.io/badge/-CCNA%20Introduction%20to%20Networks-1572B6?&style=for-the-badge&logo=Cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacking%20Professional%20(CEHPC)-FF5733?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" /> </div>
+<img
+  alt="eJPT - Junior Penetration Tester"
+  src="https://img.shields.io/badge/eJPT-Junior%20Penetration%20Tester-6f42c1?style=for-the-badge&logo=linux&logoColor=white"
+/>
+
 
 ## 📂 Projects and Labs  
 
