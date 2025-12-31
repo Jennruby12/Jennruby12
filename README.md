@@ -1,10 +1,22 @@
 
+<div align="center">
+    <img width=300 src="./main.gif"/>    
+    <br/>
+    <br/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=F4F7F7&width=435&lines=Greetings%2C+wanderer!+I'm+Jenni!" alt="Typing SVG" /></a>
+</div>
 
-# Hello, I'm Jennifer!! 
+<div align="center">
 <a href="https://www.linkedin.com/in/jennifer-carrillo-6ba347265"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.tiktok.com/@jenjen.code?_t=8ri1nVEXVOp&_r=1"><img src="https://img.shields.io/badge/-TikTok-000000?&style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://www.instagram.com/jenjen.code/profilecard/?igsh=dmNiYmFrbmQ2bzFr"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jennruby12/Jennruby12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jennruby12/Jennruby12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jennruby12/Jennruby12/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🎓 Education  
 
